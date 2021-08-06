@@ -10,3 +10,4 @@ The AQI tracks ozone (smog) and particle pollution (tiny particles from ash, pow
 
 In more than 800 counties across the nation, air pollution levels are measured daily and ranked on a scale of 0 for perfect air all the way up to 500 for air pollution levels that pose an immediate danger to the public
 
+We are trying to analyse the trends in the AQI level of the different nations.
