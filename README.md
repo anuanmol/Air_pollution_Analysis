@@ -1,5 +1,7 @@
 # Air_pollution_Analysis
 
+### You can access it live here: https://share.streamlit.io/aspvtltd/aqi/main/app.py  
+
 This is a simple project done by 7 people on Air Pollution Indication.
 
 Air Pollution Analysis is an Machine Learning approach to predict the Air Quality Index (AQI) of the region.
